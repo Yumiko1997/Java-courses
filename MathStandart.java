@@ -4,7 +4,7 @@ public class MathStandart {
             int first = Integer.valueOf(arg[0]);
             int second = Integer.valueOf(arg[1]);
             double three = Double.valueOf(arg[2]);
-            double four = Double.valueOf(arg[2]);
+            double four = Double.valueOf(arg[3]);
             int sum = first + second;
             int minus = first - second;
             double multiply = three * four;
